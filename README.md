@@ -38,6 +38,16 @@
 
   * Todos os demais (Tier C) são melhores como suporte temporário ou para aumento de coleta; não valem grandes investimentos em batalhas.
 
+## Focar
+
+| Tipo de Tropa  | Herói Principal | Auxiliar        |
+| -------------- | --------------- | --------------- |
+| **Cavalaria**  | Guan Yu         | Hammurabi       |
+| **Espadachim** | Hammurabi       | Joana d'Arc     |
+| **Lanceiro**   | Joana d'Arc     | Dário, O Grande |
+| **Arqueiro**   | Josephine       | Cleópatra VII   |
+
+
 # Gathering (Coleta)
 
 ## Heróis de Coleta Recomendados (e suas tropas compatíveis):
