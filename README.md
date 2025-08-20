@@ -6,22 +6,40 @@
 
 | Herói               | Nível | Tier | Comentário relevante|
 | ------------------- | ----- | ---- | ----------------------------------------------------------------------------------------------------------------- |
-| **Josephine**       | 55    | A    | Atacante equilibrada com recuperação — boa escolha para combates regulares.             |
-| **Haroldo III**     | 45    | C    | Kit inconsistente; difícil definir função clara.                                        |
-| **Joana D’Arc**     | 50    | C    | Funciona melhor com sinergia de contra-ataque.                           |
-| **Wu Wei**          | 24    | C    | Herói mediano, útil apenas em composições específicas.                                  |
-| **Leon**            | 34    | C    | Bom para equipes de coleta com Cleópatra.|
-| **Hammurabi**       | 55    | C    | Dano baseado em efeito contínuo; kit frágil em campo de batalha. |
-| **Dário, O Grande** | 34    | C    | Melhor como herói de coleta, não para dano. |
-| **Cleópatra VII**   | 30    | A    | Suporte de coleta com buffs, útil no início e para economia.|
-| **Guan Yu**         | 24    | B    | Grande potencial de crítico, requer sinergia para não se tornar frágil.|
-| **Rainha Dido**     | 20    | C    | Kit de suporte mediano, melhor em funções secundárias.|
-| **Axel**            | 28    | C    | Ataque secundário, de uso mais flexível mas modesto.|
-| **Narses**          | 26    | C    | Eficiente em coleta e sinergia com cavalaria.|
-| **Thanius**         | 10    | C    | Bom suporte em marchas de coleta, mas limitado no combate.|
-| **Baldassi**        | 7     | C    | Ataque e coleta mistos; vale usar com cautela.|
-| **Clyde**           | 4     | C    | Opção tática, mas sem destaque nas composições principais.|
-| **Li Daoxuan**      | 3     | C    | Marshal de ataque por turno — utilidade limitada.|
+| **Josephine**       | 70  | A | Atacante equilibrada com recuperação — boa escolha para combates regulares.             |
+| **Haroldo III**     | 70  | C | Kit inconsistente; difícil definir função clara.                                        |
+| **Joana D’Arc**     | 70  | C | Funciona melhor com sinergia de contra-ataque.                           |
+| **Hammurabi**       | 70  | C | Dano baseado em efeito contínuo; kit frágil em campo de batalha. |
+| **Leônidas I**      | 70  | ? | ? |
+| **Dário, O Grande** | 70  | C | Melhor como herói de coleta, não para dano. |
+| **Cleópatra VII**   | 70  | A | Suporte de coleta com buffs, útil no início e para economia.|
+| **Guan Yu**         | 70  | B | Grande potencial de crítico, requer sinergia para não se tornar frágil.|
+| **Wu Wei**          | 30  | C | Herói mediano, útil apenas em composições específicas.                                  |
+| **Yuan Xia**        | 32  | ? | ?                                  |
+| **Leon**            | 15  | C | Bom para equipes de coleta com Cleópatra.|
+| **Cui Ruyi**        | 15  | ? | ?                                  |
+| **Tokugawa Ieyasu** |  1  | ? | ?                                  |
+| **Toyotomi Hideyo** |  1  | ? | ?                                  |
+| **Rainha Dido**     | 20  | C | Kit de suporte mediano, melhor em funções secundárias.|
+| **Axel**            | 28  | C | Ataque secundário, de uso mais flexível mas modesto.|
+| **Narses**          | 26  | C | Eficiente em coleta e sinergia com cavalaria.|
+| **Thanius**         | 10  | C | Bom suporte em marchas de coleta, mas limitado no combate.|
+| **Baldassi**        | 7   | C | Ataque e coleta mistos; vale usar com cautela.|
+| **Clyde**           | 4   | C | Opção tática, mas sem destaque nas composições principais.|
+| **Li Daoxuan**      | 3   | C | Marshal de ataque por turno — utilidade limitada.|
+| **Kaso**            |  1  | ? | ?                                  |
+| **Léo**             |  1  | ? | ?                                  |
+| **Luki**            |  1  | ? | ?                                  |
+| **Narses**          |  1  | ? | ?                                  |
+| **Nino**            |  1  | ? | ?                                  |
+
+Posso trocar medalhas e obter:
+Yi seong-Gye
+Yi Sun-Shin
+Oda Nobunaga
+Gatos
+Gao Meng
+
 
 ### Resumo Estratégico
 
