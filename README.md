@@ -4,115 +4,100 @@
 
 ## Lista de Heróis
 
-| Herói               | Nível | Tier | Comentário relevante|
-| ------------------- | ----- | ---- | ----------------------------------------------------------------------------------------------------------------- |
-| **Josephine**       | 70  | A | Atacante equilibrada com recuperação — boa escolha para combates regulares.             |
-| **Haroldo III**     | 70  | C | Kit inconsistente; difícil definir função clara.                                        |
-| **Joana D’Arc**     | 70  | C | Funciona melhor com sinergia de contra-ataque.                           |
-| **Hammurabi**       | 70  | C | Dano baseado em efeito contínuo; kit frágil em campo de batalha. |
-| **Leônidas I**      | 70  | ? | ? |
-| **Dário, O Grande** | 70  | C | Melhor como herói de coleta, não para dano. |
-| **Cleópatra VII**   | 70  | A | Suporte de coleta com buffs, útil no início e para economia.|
-| **Guan Yu**         | 70  | B | Grande potencial de crítico, requer sinergia para não se tornar frágil.|
-| **Wu Wei**          | 30  | C | Herói mediano, útil apenas em composições específicas.                                  |
-| **Yuan Xia**        | 32  | ? | ?                                  |
-| **Leon**            | 15  | C | Bom para equipes de coleta com Cleópatra.|
-| **Cui Ruyi**        | 15  | ? | ?                                  |
-| **Tokugawa Ieyasu** |  1  | ? | ?                                  |
-| **Toyotomi Hideyo** |  1  | ? | ?                                  |
-| **Rainha Dido**     | 20  | C | Kit de suporte mediano, melhor em funções secundárias.|
-| **Axel**            | 28  | C | Ataque secundário, de uso mais flexível mas modesto.|
-| **Narses**          | 26  | C | Eficiente em coleta e sinergia com cavalaria.|
-| **Thanius**         | 10  | C | Bom suporte em marchas de coleta, mas limitado no combate.|
-| **Baldassi**        | 7   | C | Ataque e coleta mistos; vale usar com cautela.|
-| **Clyde**           | 4   | C | Opção tática, mas sem destaque nas composições principais.|
-| **Li Daoxuan**      | 3   | C | Marshal de ataque por turno — utilidade limitada.|
-| **Kaso**            |  1  | ? | ?                                  |
-| **Léo**             |  1  | ? | ?                                  |
-| **Luki**            |  1  | ? | ?                                  |
-| **Narses**          |  1  | ? | ?                                  |
-| **Nino**            |  1  | ? | ?                                  |
+| Herói               | Nível |
+| ------------------- | ----- |
+| Leônidas I      | 86    |
+| Júlio Cesar     | 85    |
+| Josephine       | 87    |
+| Joana D’Arc     | 84    |
+| Haroldo III     | 72    |
+| Hammurabi       | 74    |
+| Dário, O Grande | 82    |
+| Guan Yu         | 75    |
+| Cleópatra VII   | 71    |
+| Yi Sun-Shin     | 63    |
+| Oda Nobunaga    | 65    |
+| Diao Chan       | 46    |
+| Hua Mulan       | 73    |
+| Átila, O Huno   | 40    |
+| Yuan Xia            | 39    |
+| Wu Wei              | 30    |
+| Axel                | 28    |
+| Toyotomi Hideyoshi  | 24    |
+| Rainha Dido         | 21    |
+| Leon                | 15    |
+| Cui Ruyi            | 15    |
+| Thanius             | 10    |
+| Baldassi            | 7     |
+| Clyde               | 4     |
+| Li Daoxuan          | 3     |
+| Rei Derrick         | 1     |
+| Tokugawa Ieyasu     | 1     |
+| Kaso                | 1     |
+| Léo                 | 1     |
+| Luki                | 1     |
+| Narses              | 1     |
+| Nino                | 1     |
+| Sejong, O Grande    | 1 |
+| Theodora    | 1 |
 
-Posso trocar medalhas e obter:
-Yi seong-Gye
-Yi Sun-Shin
-Oda Nobunaga
-Gatos
-Gao Meng
+Posso  obter:
 
 
-### Resumo Estratégico
 
-* **Altamente recomendados para foco**:
+Filipe IV
+Tariq
+Aníbal
 
-  * **Josephine (Nível 55, Tier A)** — uma das melhores opções disponíveis na sua coleção para batalhas consistentes.
 
-* **Boas para suporte e estratégia específica**:
+Lvl 80 fixo: Leônidas, Josephine, Joana, Júlio César
 
-  * **Cleópatra VII** — excelente para coleta e suporte econômico, especialmente no começo de jogo.
-  * **Guan Yu** — se você montar uma composição crítica com sinergia, pode se destacar.
+Lvl 70–75: Haroldo, Hammurabi, Dário, Guan Yu, Cleópatra
 
-* **Úteis para coleta e suporte leve, mas de menor prioridade para investir pesado**:
+Lvl 50–60: Diao Chan (coleta), Yi Sun-Shin, Oda Nobunaga
 
-  * Todos os demais (Tier C) são melhores como suporte temporário ou para aumento de coleta; não valem grandes investimentos em batalhas.
+Lvl 30–40: Wu Wei, Yuan Xia, Axel, Hideyo, Dido, Thanius, Leon, Cui Ruyi
 
-## Focar
+Lvl baixo: o resto (guardar XP para os principais)
 
-| Tipo de Tropa  | Herói Principal | Auxiliar        |
-| -------------- | --------------- | --------------- |
-| **Cavalaria**  | Guan Yu         | Hammurabi       |
-| **Espadachim** | Hammurabi       | Joana d'Arc     |
-| **Lanceiro**   | Joana d'Arc     | Dário, O Grande |
-| **Arqueiro**   | Josephine       | Cleópatra VII   |
+
 
 
 # Gathering (Coleta)
 
-## Heróis de Coleta Recomendados (e suas tropas compatíveis):
+## Heróis de Coleta Recomendados :
 
-| Herói                             | Tropas Compatíveis               |
-| --------------------------------- | -------------------------------- |
-| **King Derrick**                  | Espadachins (Swordsmen)          |
-| **Cleópatra VII**                 | Cavalaria (Cavalry), Espadachins |
-| **Darius, o Grande**              | Lanceiros (Pikemen), Cavalaria   |
-| **Baldassi**                      | Espadachins                      |
-| **Thanius**                       | Lanceiros                        |
-| **Leo**                           | Lanceiros                        |
-| **Leon**                          | Arqueiros                        |
-| **Yuan Xia**                      | Arqueiros                        |
-| **Narses**                        | Cavalaria                        |
-| **Diao Chan** *(ideal em futuro)* | Cavalaria, Arqueiros             |
+| Herói               | Nível |
+| ------------------- | ----- |
+| Dário, O Grande | 82    |
+| Cleópatra VII   | 71    |
+| Diao Chan       | 46    |
+| Rei Derrick         | 1     |
+| Yuan Xia            | 39    |
+| Leon                | 15    |
+| Thanius             | 10    |
+| Baldassi            | 7     |
+| Kaso                | 1     |
+| Léo                 | 1     |
+| Narses              | 1     |
+| Nino                | 1     |
 
-### Melhores Combinações de Coleta com seus Heróis
+🌾 Melhores Formações de Coleta
+Recurso	Herói 1 (Líder)	Herói 2	Herói 3	Bonus Principal
+Geral	Cleópatra (71)	Yi Sun-Shin (63)	Diao Chan (46)	Velocidade de coleta aumentada para todos os recursos1.
 
-#### Madeira
+Madeira	Diao Chan (46)	Yuan Xia (39)	Leon (15)	Bônus específico para coleta de Madeira (Diao Chan) e bônus de carga/velocidade (Yuan Xia e Leon)1.
 
-* **Comandante:** King Derrick
-* **Auxiliar:** Baldassi
-* **Tropas:** Espadachins
+Comida	Diao Chan (46)	Nino (1)	Baldassi (7)	Bônus específico para coleta de Comida (Diao Chan) e bônus de velocidade (Nino, Baldassi)1.
 
-#### Pedra
+Ouro	Hammurabi (74)	Cleópatra (71)	Kaso (1)	Bônus para Ouro (Hammurabi) e velocidade geral (Cleópatra, Kaso)1.
 
-* **Comandante:** Cleópatra VII
-* **Auxiliar:** Narses
-* **Tropas:** Cavalaria
-
-#### Comida
-
-* **Comandante:** Darius, o Grande
-* **Auxiliar:** Thanius
-* **Tropas:** Lanceiros
-
-#### Ouro
-
-* **Comandante:** Cleópatra VII
-* **Auxiliar:** Baldassi (ou Narses)
-* **Tropas:** Espadachins ou Cavalaria — escolha com base na sua capacidade e buffs disponíveis
+Pedra	Hammurabi (74)	Thanius (10)	Narses (1)	Bônus para Pedra (Hammurabi) e bônus de carga/velocidade (Thanius, Narses)1.
 
 
 # Glossário
 
-**Tier**: O termo *tier* é comumente usado em jogos para indicar um nível de força ou viabilidade de um personagem ou elemento dentro do contexto competitivo do jogo. 
+Tier: O termo *tier* é comumente usado em jogos para indicar um nível de força ou viabilidade de um personagem ou elemento dentro do contexto competitivo do jogo. 
 
 Os tiers são normalmente organizados em letras, do topo para baixo:
 
